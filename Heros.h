@@ -20,4 +20,5 @@ public :
     bool vivant() const;
     void afficher() const;
 };
+#include "Heros.cpp"
 #endif
